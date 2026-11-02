@@ -11,7 +11,7 @@
   </blockquote>
 </section>
 
-<img width="1150" height="424" alt="90a6f42dd08a868e0d8f94bd1a3a9b59" align="center" src="https://github.com/user-attachments/assets/912310cd-5fda-48df-aa65-7d5d06c16224" />
+<img width="1150" height="405" alt="90a6f42dd08a868e0d8f94bd1a3a9b59" align="center" src="https://github.com/user-attachments/assets/912310cd-5fda-48df-aa65-7d5d06c16224" />
 
 
 <!--
