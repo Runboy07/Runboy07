@@ -7,7 +7,7 @@
 
 <section align="center">
   <blockquote style="font-style: italic; opacity: 0.85;">
-    Student at Saskatchewan Polytechnic • Code Wizard • Pro Gamer
+    CST Student • Code Wizard • Pro Gamer
   </blockquote>
 </section>
 
