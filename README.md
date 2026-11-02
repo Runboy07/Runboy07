@@ -1,6 +1,6 @@
 <h1 align="center">
     Hi, I'm Spencer
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
+  <img src="https://github.com/user-attachments/assets/4fb8f6ad-6fa9-4835-82fb-5018b976deef"
        alt="Waving Hand"
        width="40" />
 </h1>
