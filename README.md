@@ -11,7 +11,7 @@
   </blockquote>
 </section>
 
-<img width="1150" height="400" alt="wizard-dance" src="https://github.com/user-attachments/assets/54bfb078-08f6-4881-8d8e-85e27c960a55" />
+<img width="1150" height="450" alt="wizard-dance" src="https://github.com/user-attachments/assets/54bfb078-08f6-4881-8d8e-85e27c960a55" />
 
 
 
