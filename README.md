@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">
+  Hi, I'm Spencer
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
+       alt="Waving Hand"
+       width="40" />
+</h1>
 
 <!--
 **Runboy07/Runboy07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
