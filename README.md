@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi, I'm Spencer
+    Hi, I'm Spencer M
   <img src="https://github.com/user-attachments/assets/cc35d7f6-41ee-4d09-b2a0-fc3619bff464"
        alt="Waving Hand"
        width="40" />
