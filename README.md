@@ -1,6 +1,6 @@
 <h1 align="center">
     Hi, I'm Spencer
-  <img src="https://github.com/user-attachments/assets/4fb8f6ad-6fa9-4835-82fb-5018b976deef"
+  <img src="https://github.com/user-attachments/assets/cc35d7f6-41ee-4d09-b2a0-fc3619bff464"
        alt="Waving Hand"
        width="40" />
 </h1>
