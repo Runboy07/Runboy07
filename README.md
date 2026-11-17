@@ -7,7 +7,7 @@
 
 <section align="center">
   <blockquote style="font-style: italic; opacity: 0.85;">
-    CST Student • Code Wizard • Pro Gamer
+    CST Student • Code Wizard • Serene lil chud
   </blockquote>
 </section>
 
