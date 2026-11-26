@@ -15,6 +15,8 @@
 
 - 🔭 I’m currently working on ...
 
+Wiener Warriors! A roguelike bullet hell game about cool hotdogs
+
 <!--
 **Runboy07/Runboy07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
