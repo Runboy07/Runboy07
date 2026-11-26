@@ -13,14 +13,14 @@
 
 <img width="1150" height="450" alt="wizard-dance" src="https://github.com/user-attachments/assets/54bfb078-08f6-4881-8d8e-85e27c960a55" />
 
-
+- 🔭 I’m currently working on ...
 
 <!--
 **Runboy07/Runboy07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
